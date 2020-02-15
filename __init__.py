@@ -18,4 +18,4 @@ Usage:
 """
 
 
-from .services import Simsms
+from .getsmsapi import Simsms

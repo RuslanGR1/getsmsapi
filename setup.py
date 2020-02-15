@@ -10,7 +10,7 @@ setup(
   author='Gazizov Ruslan',
   author_email='almetfly@gmail.com',
   url='https://github.com/RuslanGR1/getsmsapi',
-  download_url='https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url='https://github.com/RuslanGR1/getsmsapi/archive/0.1.tar.gz',
   keywords=['sms', 'activate', 'virtual number'],
   install_requires=[
     'pydash',
